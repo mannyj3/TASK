@@ -1,5 +1,9 @@
 # TASK
 
+UNITY VERSION USED: 6000.0.62f1 along with new input system
+
+
+
 UI:
 
 This is just a mock up of the first screen. The full functionality of UX can be felt only with the use of custom UI that pairs well with the Fabstations colour palette.
