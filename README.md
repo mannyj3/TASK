@@ -6,11 +6,11 @@ This is just a mock up of the first screen. The full functionality of UX can be 
 
 Future Implementations:
 
-Clicking on the actual button can open up a small tool tip about the button that displays its functions when the help mode is turned on. This will help the user to know where the button is instead of the user searching for the button in the help panel and the actual work screen.
+*Clicking on the actual button can open up a small tool tip about the button that displays its functions when the help mode is turned on. This will help the user to know where the button is instead of the user searching for the button in the help panel and the actual work screen.
 
-Create custom UI pack with simple icons that define the meaning instead of having the text under the button that do not align with the buttons
+*Create custom UI pack with simple icons that define the meaning instead of having the text under the button that do not align with the buttons
 
-Come up with a custom font to be used all over the Fabstation app.
+*Come up with a custom font to be used all over the Fabstation app.
 
 
 Angle Calculator:
